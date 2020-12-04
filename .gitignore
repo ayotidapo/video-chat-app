@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-server/node_modules
+serverz/node_modules
 client/node_modules
 /.pnp
 .pnp.js
@@ -14,7 +14,7 @@ client/node_modules
 
 #build
 /build
-server/build
+serverz/build
 client/build
 
 # misc
