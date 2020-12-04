@@ -1,0 +1,29 @@
+.videos1 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-left: 100px;
+  margin-right: auto;
+}
+
+.subscriberDiv {
+  position: absolute;
+  // display: none !important; //since we dont want to see the subscriber view moreove the role set is subscriber so he(subscriber) was never publishing
+  // left: 0;
+  // top: 0;
+  // width: 100%;
+  // height: 100%;
+  // z-index: 10;
+}
+
+.publisherDiv {
+  margin-right: 100px;
+  // position: absolute;
+  // width: 360px;
+  // height: 240px;
+  // bottom: 10px;
+  // left: 10px;
+  // z-index: 100;
+  // border: 3px solid white;
+  // border-radius: 3px;
+}

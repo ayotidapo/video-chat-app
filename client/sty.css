@@ -1,0 +1,12 @@
+.videos1 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-left: 100px;
+  margin-right: auto; }
+
+.subscriberDiv {
+  position: absolute; }
+
+.publisherDiv {
+  margin-right: 100px; }
