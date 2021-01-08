@@ -3,8 +3,8 @@ const OpenTok = require("opentok");
 
 const app = express();
 
-const API_KEY = `46467462`;
-const SECRET_KEY = `3f50c31946c430678d79185d0b527b060d94b915`;
+const API_KEY = `*****`;
+const SECRET_KEY = `****************`;
 
 const opentok = new OpenTok(API_KEY, SECRET_KEY);
 
